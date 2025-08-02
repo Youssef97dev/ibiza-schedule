@@ -133,7 +133,7 @@ const Table = () => {
     <div>
       <div className="panel mt-6 mx-2">
         <div className="mb-5 flex flex-col gap-5 md:flex-row md:items-center">
-          <h5 className="text-lg font-semibold">Reservations</h5>
+          <h5 className="text-lg font-semibold">Ibiza Restaurants Schedule</h5>
           <div className="ml-auto flex space-x-4">
             <input
               type="text"
