@@ -58,7 +58,7 @@ const reservations = [
   {
     id: "6",
     date: "10th August 2025",
-    time: "14:30",
+    time: "13:30",
     pax: 9,
     payment: "",
     place: "JUAN Y ANDREA",
