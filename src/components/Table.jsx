@@ -96,6 +96,16 @@ const reservations = [
     location: "https://maps.app.goo.gl/T2FdLebVAAw69ePr7",
   },
   {
+    id: "11",
+    date: "11th August 2025",
+    time: "17:00",
+    pax: 9,
+    payment: "To call the day before to inform about main course dishes",
+    place: "ES TORRENT",
+    website: "https://www.estorrent.net/",
+    location: "https://maps.app.goo.gl/c3kXsG22pPDZMngh8",
+  },
+  {
     id: "8",
     date: "12th August 2025",
     time: "22:45",
@@ -202,7 +212,7 @@ const Table = () => {
                 ),*/
               },
               { accessor: "pax", title: "Guests", sortable: true },
-              { accessor: "payment", title: "Payment", sortable: true },
+              { accessor: "payment", title: "Note", sortable: true },
               {
                 accessor: "action",
                 title: "Action",
