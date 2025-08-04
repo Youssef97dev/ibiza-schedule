@@ -85,6 +85,16 @@ const reservations = [
     website: "https://www.cipriani.com/cipriani-ibiza",
     location: "https://maps.app.goo.gl/DBmdsz3EKkrwrT3BA",
   },
+  {
+    id: "8",
+    date: "8th August 2025",
+    time: "22:30",
+    pax: 9,
+    payment: "Deposit of 675€ (75€ per person)",
+    place: "Nobu",
+    website: "https://www.nobuhotelibizabay.com/",
+    location: "https://maps.app.goo.gl/vmYq6wLDuxEV3umK8",
+  },
 ];
 
 //Icons
