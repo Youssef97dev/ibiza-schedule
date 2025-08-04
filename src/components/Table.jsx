@@ -95,6 +95,16 @@ const reservations = [
     website: "https://www.nobuhotelibizabay.com/",
     location: "https://maps.app.goo.gl/vmYq6wLDuxEV3umK8",
   },
+  {
+    id: "10",
+    date: "7th August 2025",
+    time: "15:00",
+    pax: 9,
+    payment: "",
+    place: "Chambao",
+    website: "https://www.nobuhotelibizabay.com/dining-drinks/chambao",
+    location: "https://maps.app.goo.gl/1H3n4b7groVz8ZuA9",
+  },
 ];
 
 //Icons
