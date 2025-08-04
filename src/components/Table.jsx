@@ -122,7 +122,7 @@ const Table = () => {
 
   const [search, setSearch] = useState("");
   const [sortStatus, setSortStatus] = useState({
-    columnAccessor: "id",
+    columnAccessor: "date",
     direction: "asc",
   });
 
