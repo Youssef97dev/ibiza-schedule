@@ -123,7 +123,7 @@ import { IoMdAdd } from "react-icons/io";
 
 const Table = () => {
   const [page, setPage] = useState(1);
-  const PAGE_SIZES = [10, 20, 30, 50, 100];
+  const PAGE_SIZES = [20, 40, 60, 80, 100];
   const [pageSize, setPageSize] = useState(PAGE_SIZES[0]);
   const [tables, setTables] = useState(reservations);
   const [initialRecords, setInitialRecords] = useState(reservations);
