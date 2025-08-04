@@ -66,7 +66,7 @@ const reservations = [
     location: "https://maps.app.goo.gl/qBcRCp4vLUTVsNob7",
   },
   {
-    id: "6",
+    id: "7",
     date: "10th August 2025",
     time: "20:30",
     pax: 4,
@@ -76,7 +76,7 @@ const reservations = [
     location: "https://maps.app.goo.gl/T2FdLebVAAw69ePr7",
   },
   {
-    id: "7",
+    id: "8",
     date: "12th August 2025",
     time: "22:45",
     pax: 9,
@@ -86,7 +86,7 @@ const reservations = [
     location: "https://maps.app.goo.gl/DBmdsz3EKkrwrT3BA",
   },
   {
-    id: "8",
+    id: "9",
     date: "8th August 2025",
     time: "22:30",
     pax: 9,
